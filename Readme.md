@@ -1,6 +1,6 @@
-Here’s your formatted `README.md` file:
 
-```markdown
+
+
 
 # URL Data Processor
 
@@ -24,7 +24,7 @@ Ensure you have Python installed on your system. The script requires Python 3.6 
 
 ### Required Libraries
 
-Install the required libraries using \`pip\`:
+Install the required libraries using `pip`:
 
 ```bash
 
