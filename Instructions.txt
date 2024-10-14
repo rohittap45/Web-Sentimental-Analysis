@@ -1,0 +1,18 @@
+The code provided in the attached file is a Python script that performs various tasks like fetching data from URLs, parsing text, sentiment analysis, readability analysis, and creating a structured output. To run this code successfully and adjust file paths according to your system, follow these instructions:
+
+1. **Instructions to Run the Code:**
+   - Ensure you have Python installed on your system.
+   - Install the required libraries by running `pip install beautifulsoup4 pandas nltk grequests openpyxl`.
+   - Save the provided code in a Python file, e.g., `data_processing_script.py`.
+   - Prepare an Excel file named `Input.xlsx` with a column named 'URL' containing the URLs you want to process.
+   - Run the Python script by executing `python data_processing_script.py`.
+
+2. **Instructions to Change File Paths:**
+   - Update the `file_path` variable in the script to match the directory where you want to save the output files.
+   - Modify the paths in the functions `read_stop_words()` and `read_positive_negative_words()` to point to the correct location of the stop words and word lists on your system.
+   - Adjust the paths in the functions `create_dataframe()` and `get_urls()` to reflect the location of the input and output files on your system.
+
+3. Please make sure you are connected to high speed data network.
+
+By following these instructions, you can execute the provided Python script successfully and customize the file paths to suit your system configuration.
+
